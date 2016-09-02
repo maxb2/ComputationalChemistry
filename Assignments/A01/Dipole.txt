@@ -1,0 +1,288 @@
+
+A01.NH3.C3v.100.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.0102  Tot=              1.0102
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.0075  Tot=              1.0075
+
+A01.NH3.C3v.101.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.1016  Tot=              1.1016
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.0990  Tot=              1.0990
+
+A01.NH3.C3v.102.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.1905  Tot=              1.1905
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.1881  Tot=              1.1881
+
+A01.NH3.C3v.103.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.2770  Tot=              1.2770
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.2749  Tot=              1.2749
+
+A01.NH3.C3v.104.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.3608  Tot=              1.3608
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.3591  Tot=              1.3591
+
+A01.NH3.C3v.105.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.4421  Tot=              1.4421
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.4407  Tot=              1.4407
+
+A01.NH3.C3v.106.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.5208  Tot=              1.5208
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.5198  Tot=              1.5198
+
+A01.NH3.C3v.107.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.5969  Tot=              1.5969
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.5962  Tot=              1.5962
+
+A01.NH3.C3v.108.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.6705  Tot=              1.6705
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.6701  Tot=              1.6701
+
+A01.NH3.C3v.109.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.7415  Tot=              1.7415
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.7414  Tot=              1.7414
+
+A01.NH3.C3v.110.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.8100  Tot=              1.8100
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.8102  Tot=              1.8102
+
+A01.NH3.C3v.111.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.8761  Tot=              1.8761
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.8765  Tot=              1.8765
+
+A01.NH3.C3v.112.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.9399  Tot=              1.9399
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -1.9404  Tot=              1.9404
+
+A01.NH3.C3v.113.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.0014  Tot=              2.0014
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.0019  Tot=              2.0019
+
+A01.NH3.C3v.114.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.0608  Tot=              2.0608
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.0612  Tot=              2.0612
+
+A01.NH3.C3v.115.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.1180  Tot=              2.1180
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.1183  Tot=              2.1183
+
+A01.NH3.C3v.116.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.1732  Tot=              2.1732
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.1733  Tot=              2.1733
+
+A01.NH3.C3v.117.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.2265  Tot=              2.2265
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.2263  Tot=              2.2263
+
+A01.NH3.C3v.118.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.2780  Tot=              2.2780
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.2773  Tot=              2.2773
+
+A01.NH3.C3v.119.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.3276  Tot=              2.3276
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.3264  Tot=              2.3264
+
+A01.NH3.C3v.120.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.3755  Tot=              2.3755
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.3736  Tot=              2.3736
+
+A01.NH3.C3v.121.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.4217  Tot=              2.4217
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.4191  Tot=              2.4191
+
+A01.NH3.C3v.122.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.4663  Tot=              2.4663
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.4629  Tot=              2.4629
+
+A01.NH3.C3v.123.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.5093  Tot=              2.5093
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.5050  Tot=              2.5050
+
+A01.NH3.C3v.124.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.5507  Tot=              2.5507
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.5454  Tot=              2.5454
+
+A01.NH3.C3v.125.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.5906  Tot=              2.5906
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.5841  Tot=              2.5841
+
+A01.NH3.C3v.126.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.6290  Tot=              2.6290
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.6213  Tot=              2.6213
+
+A01.NH3.C3v.127.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.6659  Tot=              2.6659
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.6567  Tot=              2.6567
+
+A01.NH3.C3v.128.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.7012  Tot=              2.7012
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.6906  Tot=              2.6906
+
+A01.NH3.C3v.129.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.7350  Tot=              2.7350
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.7228  Tot=              2.7228
+
+A01.NH3.C3v.130.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.7672  Tot=              2.7672
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -2.7533  Tot=              2.7533
+
+A01.NH3.C3v.90.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=              0.0000  Tot=              0.0000
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=              0.0000  Tot=              0.0000
+
+A01.NH3.C3v.91.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.1055  Tot=              0.1055
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.1050  Tot=              0.1050
+
+A01.NH3.C3v.92.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.2108  Tot=              0.2108
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.2098  Tot=              0.2098
+
+A01.NH3.C3v.93.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.3154  Tot=              0.3154
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.3139  Tot=              0.3139
+
+A01.NH3.C3v.94.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.4192  Tot=              0.4192
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.4173  Tot=              0.4173
+
+A01.NH3.C3v.95.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.5219  Tot=              0.5219
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.5197  Tot=              0.5197
+
+A01.NH3.C3v.96.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.6232  Tot=              0.6232
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.6207  Tot=              0.6207
+
+A01.NH3.C3v.97.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.7228  Tot=              0.7228
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.7202  Tot=              0.7202
+
+A01.NH3.C3v.98.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.8207  Tot=              0.8207
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.8179  Tot=              0.8179
+
+A01.NH3.C3v.99.com.log
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.9165  Tot=              0.9165
+--
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=              0.0000    Z=             -0.9137  Tot=              0.9137
+
