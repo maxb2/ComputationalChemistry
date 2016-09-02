@@ -1,5 +1,5 @@
 # ComputationalChemistry
 Computational Chemistry Class
 
-Fun stuff
+Even More Fun stuff
 
