@@ -1,0 +1,243 @@
+
+A01.NH3.C3v.100.com.log
+ SCF Done:  E(RHF) =  -56.1779334389     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1781250162     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1781277082     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.101.com.log
+ SCF Done:  E(RHF) =  -56.1786872701     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1788482201     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1788503503     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.102.com.log
+ SCF Done:  E(RHF) =  -56.1794531615     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1795841415     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1795857656     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.103.com.log
+ SCF Done:  E(RHF) =  -56.1802164667     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1803188866     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1803200702     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.104.com.log
+ SCF Done:  E(RHF) =  -56.1809619025     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1810379137     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1810387282     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.105.com.log
+ SCF Done:  E(RHF) =  -56.1816736661     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1817261415     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1817266602     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.106.com.log
+ SCF Done:  E(RHF) =  -56.1823355477     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1823680554     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1823683503     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.107.com.log
+ SCF Done:  E(RHF) =  -56.1829310372     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1829478099     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1829479487     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.108.com.log
+ SCF Done:  E(RHF) =  -56.1834434222     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1834493252     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1834493696     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.109.com.log
+ SCF Done:  E(RHF) =  -56.1838558773     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1838563779     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.110.com.log
+ SCF Done:  E(RHF) =  -56.1841515425     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1841526827     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.111.com.log
+ SCF Done:  E(RHF) =  -56.1843135913     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1843219662     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1843220116     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.112.com.log
+ SCF Done:  E(RHF) =  -56.1843252869     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1843480309     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1843481399     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.113.com.log
+ SCF Done:  E(RHF) =  -56.1841700275     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1842148093     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1842149977     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.114.com.log
+ SCF Done:  E(RHF) =  -56.1838313793     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1839064084     A.U. after    8 cycles
+ SCF Done:  E(RHF) =  -56.1839066828     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.115.com.log
+ SCF Done:  E(RHF) =  -56.1832930997     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1834071438     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1834075026     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.116.com.log
+ SCF Done:  E(RHF) =  -56.1825391483     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1827015643     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1827019985     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.117.com.log
+ SCF Done:  E(RHF) =  -56.1815536886     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1817744676     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1817749618     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.118.com.log
+ SCF Done:  E(RHF) =  -56.1803210800     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1806109067     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1806114406     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.119.com.log
+ SCF Done:  E(RHF) =  -56.1788258607     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1791961895     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1791967388     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.120.com.log
+ SCF Done:  E(RHF) =  -56.1770527217     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1775158698     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1775164082     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.121.com.log
+ SCF Done:  E(RHF) =  -56.1749864742     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1755557341     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1755562350     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.122.com.log
+ SCF Done:  E(RHF) =  -56.1726120090     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1733017820     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1733022205     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.123.com.log
+ SCF Done:  E(RHF) =  -56.1699142493     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1707402033     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1707405586     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.124.com.log
+ SCF Done:  E(RHF) =  -56.1668780977     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1678573526     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1678576111     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.125.com.log
+ SCF Done:  E(RHF) =  -56.1634883769     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1646397220     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1646398806     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.126.com.log
+ SCF Done:  E(RHF) =  -56.1597297647     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1610739148     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1610739846     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.127.com.log
+ SCF Done:  E(RHF) =  -56.1555867233     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1571466195     A.U. after    9 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.128.com.log
+ SCF Done:  E(RHF) =  -56.1510434216     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1528445880     A.U. after    9 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.129.com.log
+ SCF Done:  E(RHF) =  -56.1460836506     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1481546172     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1481547036     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.130.com.log
+ SCF Done:  E(RHF) =  -56.1406907298     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1430635380     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1430638267     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.90.com.log
+ SCF Done:  E(RHF) =  -56.1735925442     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1739780024     A.U. after    7 cycles
+ SCF Done:  E(RHF) =  -56.1739852526     A.U. after    7 cycles
+ 1\1\GINC-C11-03\FOpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.91.com.log
+ SCF Done:  E(RHF) =  -56.1736423665     A.U. after   11 cycles
+ SCF Done:  E(RHF) =  -56.1740254529     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1740326371     A.U. after    7 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.92.com.log
+ SCF Done:  E(RHF) =  -56.1737910289     A.U. after   11 cycles
+ SCF Done:  E(RHF) =  -56.1741670565     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1741740458     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.93.com.log
+ SCF Done:  E(RHF) =  -56.1740361267     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1744005773     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1744072517     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.94.com.log
+ SCF Done:  E(RHF) =  -56.1743736814     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1747223132     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1747285669     A.U. after    9 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.95.com.log
+ SCF Done:  E(RHF) =  -56.1747981830     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1751271318     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1751328779     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.96.com.log
+ SCF Done:  E(RHF) =  -56.1753026494     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1756085208     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1756136938     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.97.com.log
+ SCF Done:  E(RHF) =  -56.1758786992     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1761586495     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1761632076     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.98.com.log
+ SCF Done:  E(RHF) =  -56.1765166383     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1767684431     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1767723680     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
+A01.NH3.C3v.99.com.log
+ SCF Done:  E(RHF) =  -56.1772055574     A.U. after   10 cycles
+ SCF Done:  E(RHF) =  -56.1774276665     A.U. after    9 cycles
+ SCF Done:  E(RHF) =  -56.1774309625     A.U. after    8 cycles
+ 1\1\GINC-C11-03\POpt\RHF\6-31G(d)\H3N1\EPLUHAR\02-Sep-2016\1\\# opt=(z
+
