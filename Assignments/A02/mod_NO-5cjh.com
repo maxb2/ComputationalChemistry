@@ -1,5 +1,7 @@
+%nprocshared=8
+%mem=32GB
 %chk=mod_5cjh.chk
-#opt=(modredundant,loose) rhf/6-31g(d) geom=connectivity
+#opt=(modredundant) rhf/6-31g(d) geom=connectivity scf=qc
 
 CRYSTAL STRUCTURE OF EUKARYOTIC OXOIRON MAGKATG2 AT PH 8.5
 

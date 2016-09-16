@@ -1,7 +1,7 @@
 %nprocshared=8
-%mem=2GB
+%mem=32GB
 %chk=feoscan.chk
-# opt=(modredundant,loose) rhf/6-31g(d) 
+# opt=(modredundant) rhf/6-31g(d) scf=qc
 
 CRYSTAL STRUCTURE OF EUKARYOTIC OXOIRON MAGKATG2 AT PH 8.5
 
