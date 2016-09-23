@@ -1,5 +1,7 @@
+%nprocshared=4
+%mem=4GB
 %chk=A02_mod_FF
-# opt=loose freq rhf/6-31g(d) geom=connectivity
+# opt freq rhf/6-31g(d) geom=connectivity
 
 Title Card Required
 

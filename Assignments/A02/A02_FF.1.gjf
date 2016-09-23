@@ -1,6 +1,6 @@
 %nprocshared=2
 %mem=256MW
-%chk=C:\Users\maxb2\Desktop\A02\A02_FF.chk
+%chk=/home/maxb2/A02
 # opt freq rhf/6-31g*
 
 Title Card Required
