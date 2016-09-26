@@ -2,3 +2,5 @@ Mercury/
 *.run
 *chk
 *.cub*
+*.o*
+*.e*
