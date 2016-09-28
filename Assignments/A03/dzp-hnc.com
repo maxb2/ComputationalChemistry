@@ -1,12 +1,11 @@
-%rwf=/home/epktb/scratch/dzp-irc/
-%int=/home/epktb/scratch/dzp-irc/
-%d2e=/home/epktb/scratch/dzp-irc/
+%rwf=/home/epktb/scratch/dzp-HNC/
+%int=/home/epktb/scratch/dzp-HNC/
+%d2e=/home/epktb/scratch/dzp-HNC/
 %nosave
-%mem=7GB
-%nprocshared=4
-%oldchk=/home/epktb/scan-dzp-HNC
-%chk=/home/epktb/irc-dzp-test
-# irc=(maxpoints=33,maxcycle=50,report,calcfc) rhf/Gen gfp
+%mem=6GB
+%nprocshared=3
+%chk=/home/epktb/dzp-HNC
+# opt=(tight) RHF/Gen gfp 
 
 HNC-HCN
 
@@ -15,9 +14,9 @@ HNC-HCN
  C                  1           B1     
  H                  2           B2     1           A1    
 
- B1 1.1724969
- B2 1.15404631
- A1 78.50437304
+B1 1.0
+B2 2.3
+A1 5.0
 
 H 0
 S    3 1.00

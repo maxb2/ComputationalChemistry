@@ -1,0 +1,20 @@
+%rwf=/home/epktb/scratch/HNC
+%int=/home/epktb/scratch/HNC
+%d2e=/home/epktb/scratch/HNC
+%nosave
+%mem=7GB
+%nprocshared=4
+%chk=/home/epktb/irc-hnc
+# irc=(maxpoints=31,maxcycle=50,report,calcfc) rhf/6-31g(d) geom=connectivity gfp
+
+HNC-HCN
+
+0 1
+ N                  0.08053700   -0.56667000    0.00000000
+ C                  0.08053700    0.60242400    0.00000000
+ H                 -1.04697700    0.35214600    0.00000000
+
+ 1 2 3.0
+ 2
+ 3
+
