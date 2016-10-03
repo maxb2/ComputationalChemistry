@@ -1,0 +1,15 @@
+%oldchk=C:\Users\epktb\Desktop\hnc-cisd-ts
+%chk=C:\Users\epktb\Desktop\hnc-cisd-tsopt
+# opt=(ts,noeigentest,rcfc) cisd(fc)/6-311++G** gfp guess=read
+
+title
+
+0 1
+N              
+ C                  1           B1     
+ H                  2           B2     1           A1    
+
+B1 1.0
+B2 1.1
+A1 80.0
+

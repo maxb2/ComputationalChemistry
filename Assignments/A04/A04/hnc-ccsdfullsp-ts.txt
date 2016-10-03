@@ -1,0 +1,7 @@
+%mem=6GB
+%nprocshared=3
+%oldchk=C:\Users\epktb\Desktop\A04\hnc-mp2full-ts
+%chk=C:\Users\epktb\Desktop\A04\hnc-ccsdfull-ts
+# ccsd(full)/6-311++g** gfp geom=allcheck
+
+HNC-HCN
