@@ -398,7 +398,7 @@
  Requested convergence on MAX density matrix=1.00D-06.
  Requested convergence on             energy=1.00D-06.
  No special actions if energy rises.
- SCF Done:  E(RHF) =  -92.8165742275     A.U. after   12 cycles
+ sCF Done:  E(RHF) =  -92.8165742275     A.U. after   12 cycles
             NFock= 12  Conv=0.23D-08     -V/T= 1.9997
  Range of M.O.s used for correlation:     1    39
  NBasis=    39 NAE=     7 NBE=     7 NFC=     0 NFV=     0
