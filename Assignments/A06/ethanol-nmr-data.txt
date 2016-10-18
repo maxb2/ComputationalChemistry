@@ -1,0 +1,11 @@
+# Summary of NMR spectra (SCF GIAO Magnetic shielding)
+# Values for element H only
+# Reference:  TMS B3LYP/6-311+G(2d,p) GIAO
+# Reference shielding:  31.8821 ppm
+# Degenerate peaks are condensed together (Degeneracy Tolerance 0.05)
+#
+#        Shift (ppm)     Degeneracy  Atoms
+        3.5836591028         2.0000  8,7
+        0.9828927412         2.0000  5,6
+        0.6395789633         1.0000  4
+       -0.8294574061         1.0000  9
