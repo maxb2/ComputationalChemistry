@@ -1,5 +1,7 @@
+%nprocshared=8
+%mem=1GB
 %chk=Ethanolb3lypnmr
-# nmr=(giao,spinspin) b3lyp/6-311+g(2d,p) geom=connectivity
+# b3lyp/6-311+g(2d,p) nmr=(giao,spinspin) geom=connectivity
 
 Title Card Required
 
