@@ -12,10 +12,10 @@ module load gaussian/gaussian-D.01
 echo $HOSTNAME
 
 wd=$(pwd)
-for file in *.com
-do
-echo $file 
-g09 < $file > $file.log
-done
+#for file in *.com
+#do
+#echo $file 
+#g09 < $file > $file.log
+#done
 
-#g09 < $1 > $1.log
+g09 < $1 > $1.log

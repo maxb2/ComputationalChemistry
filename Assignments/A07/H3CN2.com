@@ -5,7 +5,7 @@
 
 Title Card Required
 
-1 3
+1 1
  C              
  H                  1            B1
  H                  1            B2    2            A1
