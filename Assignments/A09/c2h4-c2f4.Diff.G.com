@@ -1,7 +1,7 @@
 %nprocshared=8
 %mem=6GB
-%chk=c2h4-c2f4-diff-aug
-# opt freq=raman b97d/aug-cc-pvtz geom=connectivity
+%chk=c2h4-c2f4-diffg
+# opt freq=raman b97d/6-311++g** geom=connectivity
 
 Title
 
