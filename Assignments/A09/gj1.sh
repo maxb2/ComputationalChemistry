@@ -1,12 +1,12 @@
 #!/bin/bash
 
-#SBATCH -J H3CN2p
-#SBATCH -o H3CN2p.o%J
-#SBATCH -e H3CN2p.e%J
+#SBATCH -J c2f4
+#SBATCH -o c2f4.o%J
+#SBATCH -e c2f4.e%J
 #SBATCH -n 8
 #SBATCH -N 1
 #SBATCH --mem-per-cpu=8G
-#SBATCH -t 12:00:00
+#SBATCH -t 48:00:00
 module purge
 module load gaussian/gaussian-D.01
 echo $HOSTNAME
