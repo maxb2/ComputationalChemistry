@@ -1,0 +1,192 @@
+ Entering Gaussian System, Link 0=g09
+ Initial command:
+ /share/sw/gaussian/D.01/g09/l1.exe "/local/scratch/epluhar/Gau-20601.inp" -scrdir="/local/scratch/epluhar/"
+ Entering Link 1 = /share/sw/gaussian/D.01/g09/l1.exe PID=     20602.
+  
+ Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2013,
+            Gaussian, Inc.  All Rights Reserved.
+  
+ This is part of the Gaussian(R) 09 program.  It is based on
+ the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
+ the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
+ the Gaussian(R) 94 system (copyright 1995, Gaussian, Inc.),
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+ the Gaussian 90(TM) system (copyright 1990, Gaussian, Inc.),
+ the Gaussian 88(TM) system (copyright 1988, Gaussian, Inc.),
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+ University), and the Gaussian 82(TM) system (copyright 1983,
+ Carnegie Mellon University). Gaussian is a federally registered
+ trademark of Gaussian, Inc.
+  
+ This software contains proprietary and confidential information,
+ including trade secrets, belonging to Gaussian, Inc.
+  
+ This software is provided under written license and may be
+ used, copied, transmitted, or stored only in accord with that
+ written license.
+  
+ The following legend is applicable only to US Government
+ contracts under FAR:
+  
+                    RESTRICTED RIGHTS LEGEND
+  
+ Use, reproduction and disclosure by the US Government is
+ subject to restrictions as set forth in subparagraphs (a)
+ and (c) of the Commercial Computer Software - Restricted
+ Rights clause in FAR 52.227-19.
+  
+ Gaussian, Inc.
+ 340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
+  
+  
+ ---------------------------------------------------------------
+ Warning -- This program may not be used in any manner that
+ competes with the business of Gaussian, Inc. or will provide
+ assistance to any competitor of Gaussian, Inc.  The licensee
+ of this program is prohibited from giving any competitor of
+ Gaussian, Inc. access to this program.  By using this program,
+ the user acknowledges that Gaussian, Inc. is engaged in the
+ business of creating and licensing software in the field of
+ computational chemistry and represents and warrants to the
+ licensee that it is not a competitor of Gaussian, Inc. and that
+ it will not use this program in any manner prohibited above.
+ ---------------------------------------------------------------
+  
+
+ Cite this work as:
+ Gaussian 09, Revision D.01,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, B. Mennucci, 
+ G. A. Petersson, H. Nakatsuji, M. Caricato, X. Li, H. P. Hratchian, 
+ A. F. Izmaylov, J. Bloino, G. Zheng, J. L. Sonnenberg, M. Hada, 
+ M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, 
+ Y. Honda, O. Kitao, H. Nakai, T. Vreven, J. A. Montgomery, Jr., 
+ J. E. Peralta, F. Ogliaro, M. Bearpark, J. J. Heyd, E. Brothers, 
+ K. N. Kudin, V. N. Staroverov, T. Keith, R. Kobayashi, J. Normand, 
+ K. Raghavachari, A. Rendell, J. C. Burant, S. S. Iyengar, J. Tomasi, 
+ M. Cossi, N. Rega, J. M. Millam, M. Klene, J. E. Knox, J. B. Cross, 
+ V. Bakken, C. Adamo, J. Jaramillo, R. Gomperts, R. E. Stratmann, 
+ O. Yazyev, A. J. Austin, R. Cammi, C. Pomelli, J. W. Ochterski, 
+ R. L. Martin, K. Morokuma, V. G. Zakrzewski, G. A. Voth, 
+ P. Salvador, J. J. Dannenberg, S. Dapprich, A. D. Daniels, 
+ O. Farkas, J. B. Foresman, J. V. Ortiz, J. Cioslowski, 
+ and D. J. Fox, Gaussian, Inc., Wallingford CT, 2013.
+ 
+ ******************************************
+ Gaussian 09:  ES64L-G09RevD.01 24-Apr-2013
+                13-Sep-2016 
+ ******************************************
+ %chk=mod_5cjh.chk
+ --------------------------------------------------------
+ #opt=(modredundant,loose) rhf/6-31g(d) geom=connectivity
+ --------------------------------------------------------
+ 1/7=-1,18=120,19=15,38=1,57=2/1,3;
+ 2/9=110,12=2,17=6,18=5,40=1/2;
+ 3/5=1,6=6,7=1,11=1,16=1,25=1,30=1,71=1,116=1/1,2,3;
+ 4//1;
+ 5/5=2,38=5/2;
+ 6/7=2,8=2,9=2,10=2,28=1/1;
+ 7//1,2,3,16;
+ 1/7=-1,18=20,19=15/3(2);
+ 2/9=110/2;
+ 99//99;
+ 2/9=110/2;
+ 3/5=1,6=6,7=1,11=1,16=1,25=1,30=1,71=1,116=1/1,2,3;
+ 4/5=5,16=3,69=1/1;
+ 5/5=2,38=5/2;
+ 7//1,2,3,16;
+ 1/7=-1,18=20,19=15/3(-5);
+ 2/9=110/2;
+ 6/7=2,8=2,9=2,10=2,19=2,28=1/1;
+ 99/9=1/99;
+ ----------------------------------------------------------
+ CRYSTAL STRUCTURE OF EUKARYOTIC OXOIRON MAGKATG2 AT PH 8.5
+ ----------------------------------------------------------
+ Symbolic Z-matrix:
+ Charge =  0 Multiplicity = 1
+ C(PDBName=CG,ResName=HIS,ResNum=314_A) 0     42.461    29.338   -17.536   L 
+ N(PDBName=ND1,ResName=HIS,ResNum=314_A) 0     42.761    28.913   -18.81    L 
+ C(PDBName=CD2,ResName=HIS,ResNum=314_A) 0     42.332    28.217   -16.788   L 
+ C(PDBName=CE1,ResName=HIS,ResNum=314_A) 2     1.32062  1     109.42518  3     0.96236  0    L 
+ N(PDBName=NE2,ResName=HIS,ResNum=314_A) 4     1.31965  2     108.19539  1    -0.58069  0    L    H        18    0.        0.        0.        0. 
+ C(PDBName=C2A,ResName=522,ResNum=801_A) 5     4.94281  4     102.83462  2    -130.30417  0    H 
+ C(PDBName=C1A,ResName=522,ResNum=801_A) 6     1.3759   5     34.61724  4    -177.41421  0    H 
+ C(PDBName=CHA,ResName=522,ResNum=801_A) 7     1.47628  6     123.63661  5    -128.06666  0    H 
+ C(PDBName=C3A,ResName=522,ResNum=801_A) 6     1.38301  5     83.0234  4    -44.10948  0    H 
+ C(PDBName=CMA,ResName=522,ResNum=801_A) 9     1.50199  6     127.67331  5     154.58459  0    H 
+ C(PDBName=C4A,ResName=522,ResNum=801_A) 9     1.38674  6     103.68865  5    -25.11724  0    H 
+ C(PDBName=CHB,ResName=522,ResNum=801_A) 11    1.46449  9     122.51968  6     179.75409  0    H 
+ C(PDBName=C1B,ResName=522,ResNum=801_A) 12    1.46516  11    124.92446  9     178.66993  0    H 
+ C(PDBName=C2B,ResName=522,ResNum=801_A) 13    1.38824  12    122.47322  11    178.87886  0    H 
+ C(PDBName=CMB,ResName=522,ResNum=801_A) 14    1.49797  13    125.54655  12   -0.28239  0    H 
+ C(PDBName=C3B,ResName=522,ResNum=801_A) 14    1.39051  13    105.59983  12    178.73246  0    H 
+ N(PDBName=NA,ResName=522,ResNum=801_A) 7     1.33572  6     112.55465  5     46.54107  0    H 
+ Fe(PDBName=FE,ResName=522,ResNum=801_A) 17    2.04806  7     127.18671  6     174.8838  0    H 
+ N(PDBName=ND,ResName=522,ResNum=801_A) 18    2.06784  17    90.80905  7     3.36971  0    H 
+ C(PDBName=C4D,ResName=522,ResNum=801_A) 19    1.33754  18    128.82761  17    4.28642  0    H 
+ N(PDBName=NB,ResName=522,ResNum=801_A) 13    1.32563  12    123.67897  11   -0.81754  0    H 
+ C(PDBName=C4B,ResName=522,ResNum=801_A) 21    1.34355  13    102.65708  12   -179.06952  0    H 
+ C(PDBName=CHC,ResName=522,ResNum=801_A) 22    1.45773  21    122.55242  13    175.94525  0    H 
+ N(PDBName=NC,ResName=522,ResNum=801_A) 18    2.06407  17    178.30292  7    -91.21749  0    H 
+ C(PDBName=C1C,ResName=522,ResNum=801_A) 24    1.33357  18    127.28999  17   -80.52125  0    H 
+ C(PDBName=C2C,ResName=522,ResNum=801_A) 25    1.38529  24    113.83316  18    173.94972  0    H 
+ C(PDBName=CMC,ResName=522,ResNum=801_A) 26    1.50495  25    125.17262  24    177.87087  0    H 
+ C(PDBName=C3C,ResName=522,ResNum=801_A) 26    1.37606  25    104.12491  24   -2.68344  0    H 
+ C(PDBName=C4C,ResName=522,ResNum=801_A) 24    1.33132  18    128.46001  17    87.88133  0    H 
+ C(PDBName=CHD,ResName=522,ResNum=801_A) 29    1.46272  24    123.70589  18    9.66976  0    H 
+ C(PDBName=C1D,ResName=522,ResNum=801_A) 19    1.33365  18    129.0126  17   -177.72743  0    H 
+ C(PDBName=C2D,ResName=522,ResNum=801_A) 31    1.39064  19    113.98302  18   -175.70988  0    H 
+ C(PDBName=CMD,ResName=522,ResNum=801_A) 32    1.50542  31    127.3447  19    179.74911  0    H 
+ C(PDBName=C3D,ResName=522,ResNum=801_A) 32    1.36597  31    105.04256  19   -3.46083  0    H 
+ O(PDBName=O,ResName=OH,ResNum=802_A) 18    2.00117  17    86.25771  7    -88.85125  0    H 
+ H(PDBName=HD2,ResName=HIS,ResNum=314_A) 3     1.07     1     126.41225  2     179.04712  0    L 
+ H(PDBName=HE1,ResName=HIS,ResNum=314_A) 4     1.07     2     125.90231  1     179.41931  0    L 
+ H(PDBName=1HHA,ResName=522,ResNum=801_A) 8     1.07     7     118.85858  6    -9.98756  0    H 
+ H(PDBName=1HMA,ResName=522,ResNum=801_A) 10    1.07     9     109.47122  6     0.       0    H 
+ H(PDBName=2HMA,ResName=522,ResNum=801_A) 10    1.07     9     109.47122  6     120.     0    H 
+ H(PDBName=3HMA,ResName=522,ResNum=801_A) 10    1.07     9     109.47122  6    -120.     0    H 
+ H(PDBName=2HHB,ResName=522,ResNum=801_A) 12    1.07     11    110.92294  9    -5.71771  0    H 
+ H(PDBName=1HMB,ResName=522,ResNum=801_A) 15    1.07     14    109.47122  13    0.       0    H 
+ H(PDBName=2HMB,ResName=522,ResNum=801_A) 15    1.07     14    109.47122  13    120.     0    H 
+ H(PDBName=3HMB,ResName=522,ResNum=801_A) 15    1.07     14    109.47122  13   -120.     0    H 
+ H(PDBName=1HHC,ResName=522,ResNum=801_A) 23    1.07     22    116.39426  21   -177.20582  0    H 
+ H(PDBName=1HMC,ResName=522,ResNum=801_A) 27    1.07     26    109.47122  25   -180.     0    H 
+ H(PDBName=2HMC,ResName=522,ResNum=801_A) 27    1.07     26    109.47122  25    60.      0    H 
+ H(PDBName=3HMC,ResName=522,ResNum=801_A) 27    1.07     26    109.47122  25   -60.      0    H 
+ H(PDBName=2HHD,ResName=522,ResNum=801_A) 30    1.07     29    114.81627  24    141.96857  0    H 
+ H(PDBName=1HMD,ResName=522,ResNum=801_A) 33    1.07     32    109.47122  31   -180.     0    H 
+ H(PDBName=2HMD,ResName=522,ResNum=801_A) 33    1.07     32    109.47122  31    60.      0    H 
+ H(PDBName=3HMD,ResName=522,ResNum=801_A) 33    1.07     32    109.47122  31   -60.      0    H 
+ H                    2     1.       1     125.28741  3    -179.03764  0    L 
+ H                    1     1.07     3     126.97254  5     179.04712  0    L 
+ H                    34   B1       32   A1       31   D1       0    H 
+ H                    6    B2       5    A2       4    D2       0    H 
+ H                    16   B3       14   A3       13   D3       0    H 
+ H                    28   B4       26   A4       25   D4       0    H 
+       Variables:
+  B1                    1.07                     
+  B2                    1.07                     
+  B3                    1.07                     
+  B4                    1.07                     
+  A1                  127.7109                   
+  A2                  142.25709                  
+  A3                  128.35649                  
+  A4                  127.09163                  
+  D1                 -177.44754                  
+  D2                  101.45444                  
+  D3                 -178.87865                  
+  D4                 -179.09137                  
+ 
+    12 tetrahedral angles replaced.
+ Add virtual bond connecting atoms Fe18       and N5         Dist= 4.16D+00.
+ The following ModRedundant input section has been read:
+ 
+ Error parsing secondary structure:
+ QPErr --- A syntax error was detected in the input line.
+ B 35 18 S 75 0.010000
+ '
+ Last state= "Top"
+ TCursr=       101 LCursr=         0
+ Error termination via Lnk1e in /share/sw/gaussian/D.01/g09/l101.exe at Tue Sep 13 11:41:45 2016.
+ Job cpu time:       0 days  0 hours  0 minutes  0.3 seconds.
+ File lengths (MBytes):  RWF=      5 Int=      0 D2E=      0 Chk=      1 Scr=      1
